@@ -8,9 +8,9 @@
 
 
 相对优质书源：
-https://github.com/ccav5ml/aikan/blob/master/shuyuan.aks
+https://github.com/ccav5ml/aikan/raw/master/shuyuan.aks
 
 
 大杂脍书源集合：
-https://github.com/ccav5ml/aikan/blob/master/shuyuanplus.aks
+https://github.com/ccav5ml/aikan/raw/master/shuyuanplus.aks
 
