@@ -11,6 +11,6 @@
 https://github.com/ccav5ml/aikan/blob/master/shuyuan.aks
 
 
-大杂脍书源：
+大杂脍书源集合：
 https://github.com/ccav5ml/aikan/blob/master/shuyuanplus.aks
 
