@@ -11,8 +11,9 @@
 
 相对优质书源：
 https://github.com/ccav5ml/aikan/raw/master/shuyuan.aks
-
+短网址：http://shuyuan.tk
 
 大杂脍书源集合：
 https://github.com/ccav5ml/aikan/raw/master/shuyuanplus.aks
+短网址：http://shuyuan.ml/
 
